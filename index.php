@@ -1,4 +1,6 @@
 <?php
+
+// to use PDO you have to uncheck mysqli boxes under xamp-> php -> folder
     $host = 'localhost';
     $user = 'root';
     $password ='';
